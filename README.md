@@ -1,6 +1,7 @@
 # Unofficial Apple DEP Status Page.
 
 This is an unofficial Apple DEP status page, maintained by the macadmins (you!).
+This is forked from the [original](https://github.com/macadmins/isdepdownorjustme), as the original domain registration had expired.
 
 # How to update the status page.
 
